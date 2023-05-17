@@ -1,2 +1,2 @@
 # smart-shop
-This is a simple shopping website made with
+This is a simple shopping website
